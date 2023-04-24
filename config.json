@@ -1,0 +1,10 @@
+{
+    "port":5050,
+    "host": "localhost",
+    "dbpass": "mZLpIkALH0oQION7",
+    "dbuser": "mhaswadkarsachin",
+    "dbname": "userdb",
+    "clusterName": "sachindb",
+    "dbstring": "j3wrk4n",
+    "url":"mongodb+srv://{{dbuser}}:{{dbpass}}@{{clusterName}}.{{dbstring}}.mongodb.net/{{dbname}}?retryWrites=true&w=majority"
+}
